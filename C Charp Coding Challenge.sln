@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C Charp Coding Challenge", "C Charp Coding Challenge\C Charp Coding Challenge.csproj", "{30D4295D-B010-454A-8E3F-25F1BE3F0069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C Charp Coding Challenge.test", "C Charp Coding Challenge.test\C Charp Coding Challenge.test.csproj", "{5FEF46B0-89BD-49A6-9D9E-BF4279C4B0D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D4295D-B010-454A-8E3F-25F1BE3F0069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D4295D-B010-454A-8E3F-25F1BE3F0069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D4295D-B010-454A-8E3F-25F1BE3F0069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D4295D-B010-454A-8E3F-25F1BE3F0069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FEF46B0-89BD-49A6-9D9E-BF4279C4B0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FEF46B0-89BD-49A6-9D9E-BF4279C4B0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FEF46B0-89BD-49A6-9D9E-BF4279C4B0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FEF46B0-89BD-49A6-9D9E-BF4279C4B0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EE6EF99-1E59-4FBF-89D8-7DB877455F4A}
+	EndGlobalSection
+EndGlobal
